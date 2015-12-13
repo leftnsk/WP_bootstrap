@@ -1,0 +1,30 @@
+/*
+Theme Name: Test Wordpress Theme with Bootstrap
+Version: 1.0
+
+*/
+
+@import url('bootstrap/css/bootstrap.css');
+@import url('bootstrap/css/bootstrap-responsive.css');
+
+#menu-nav_header  li {
+	float: left;
+	display: inline-block;
+	margin: 5px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#menu-nav_header  ul {
+    text-align: center;
+    display: inline-block;
+}
+
+.nav_header {
+	text-align: center;
+}
+
+#menu-nav_header {
+	text-align: center;
+	display: inline-block;
+}
